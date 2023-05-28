@@ -1,0 +1,2 @@
+### Get all utilities
+GET http://localhost:3333/utilities HTTP/1.1
